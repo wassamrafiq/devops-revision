@@ -1,5 +1,6 @@
 pink 
 black
-white
+purple 
+cvutv
 indigo
 and more
